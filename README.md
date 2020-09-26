@@ -12,7 +12,7 @@ In general, “PSD to HTML” is a workflow. First, a web page is designed in a 
 
 ## Development
 
-Heroku deployed link :
+Deployed link :
 http://psd2html-khaled.surge.sh/
 
 ### Installing Dependencies
